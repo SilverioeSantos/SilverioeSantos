@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-📚 Estudando Análise e Desenvolvimento de Sistemas. <br>
+📚 Formando em Análise e Desenvolvimento de Sistemas. <br>
 💻 Estudando Full stack/Front-end.  <br>
 💼 Freelancer.  <br>
 🧠 A displina molda o homem. <br>
