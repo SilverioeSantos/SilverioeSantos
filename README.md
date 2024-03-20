@@ -3,7 +3,7 @@
 <img src="https://lh3.googleusercontent.com/pw/ABLVV85NL61qaB_2SVc1Va4cplhxQWPRY87lzT-Hlsp6KrdJ6fh7fljvEJjAsndwFaPAGDUwVqIWR65Y7QGWvVSCv-O6khL3U6Hg_NTO8k6uHWJENfxXWsutuhGYK922uQQVMe5BNASuTcQ44k4xnSKKCJvm=w607-h607-s-no-gm?authuser=0" min-width="350px" max-width="350px" width="350px" align="right" alt="Computador">
 
 📚 Formando em Análise e Desenvolvimento de Sistemas. <br>
-💻 Estudando Full stack/Front-end.  <br>
+💻 Estudando Full stack.  <br>
 💼 Freelancer.  <br>
 🧠 A displina molda o homem. 
 
